@@ -1,0 +1,47 @@
+pyrogram.session.auth - Start creating a new auth key on DC2
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC2 - IPv4
+pyrogram.session.auth - Done auth key exchange: DhGenOk
+pyrogram.connection.connection - Disconnected
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC2 - IPv4
+pyrogram.session.session - NetworkTask started
+pyrogram.session.session - Session initialized: Layer 151
+pyrogram.session.session - Device: CPython 3.11.9 - Pyrogram 2.0.97
+pyrogram.session.session - System: Linux 4.14.321-ThunderBolt⚡ (en)
+pyrogram.session.session - Session started
+pyrogram.session.session - PingTask started
+pyrogram.session.session - PingTask stopped
+pyrogram.connection.connection - Disconnected
+pyrogram.session.session - NetworkTask stopped
+pyrogram.session.session - Session stopped
+pyrogram.session.auth - Start creating a new auth key on DC5
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC5 - IPv4
+pyrogram.session.auth - Done auth key exchange: DhGenOk
+pyrogram.connection.connection - Disconnected
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC5 - IPv4
+pyrogram.session.session - NetworkTask started
+pyrogram.session.session - Session initialized: Layer 151
+pyrogram.session.session - Device: CPython 3.11.9 - Pyrogram 2.0.97
+pyrogram.session.session - System: Linux 4.14.321-ThunderBolt⚡ (en)
+pyrogram.session.session - Session started
+pyrogram.session.session - PingTask started
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC5 - IPv4
+pyrogram.session.session - NetworkTask started
+pyrogram.session.session - Session initialized: Layer 151
+pyrogram.session.session - Device: CPython 3.11.9 - Pyrogram 2.0.97
+pyrogram.session.session - System: Linux 4.14.321-ThunderBolt⚡ (en)
+pyrogram.session.session - Session started
+pyrogram.session.session - PingTask started
+pyrogram.connection.connection - Connecting...
+pyrogram.connection.connection - Connected! Production DC5 - IPv4 - TCPAbridgedO
+pyrogram.session.session - NetworkTask started
+pyrogram.session.internals.msg_id - Time synced: 2024-07-08 09:29:28.182778 UTC
+pyrogram.connection.connection - Disconnected
+pyrogram.session.session - NetworkTask stopped
+pyrogram.session.session - Session stopped
